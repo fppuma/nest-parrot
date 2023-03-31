@@ -45,6 +45,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Middleware
+
+```bash
+nest g middleware logger
+```
+
 ## Test
 
 ```bash
